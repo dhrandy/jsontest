@@ -1,5 +1,5 @@
 $.getJSON(
-    "http://www.randy-gentry.com/jsontest/assets/json/tracks.json",
+    "https://www.randy-gentry.com/jsontest/assets/json/tracks.json",
     function(data) {
 
       // console.log(data)
