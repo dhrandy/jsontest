@@ -15,7 +15,6 @@ $.getJSON(
         var track = $('<td>').text(data.tracks[i].track);
         var location = $('<td>').text(data.tracks[i].location);
         var date = $('<td>').text(data.tracks[i].date);
-        var border = $('<hr>')
         var row = $('<tr>');
 
         row.append(row, track, location, date);
