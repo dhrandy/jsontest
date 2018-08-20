@@ -8,7 +8,7 @@ $.getJSON(
 
       var i = 0;
 
-      for (i=0; i<10; i++) {
+      for (i=0; i<4; i++) {
         var track = $('<td>').text(data.tracks[i].track);
         var location = $('<td>').text(data.tracks[i].location);
         var date = $('<td>').text(data.tracks[i].date);
