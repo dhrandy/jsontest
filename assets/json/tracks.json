@@ -4,31 +4,31 @@
         "id": 1,
         "track":"Track 1",
         "location": "Charlotte, NC",
-        "date": "11/23/2018"
+        "date": "11/23"
 },
 {
         "id":2,
         "track":"Track 2",
         "location": "Concord, NC",
-        "date": "11/22/2018"
+        "date": "11/22"
 },
 {
         "id":3,
         "track":"Track 3",
         "location":"Kannapolis, NC",
-        "date": "11/21/2018"
+        "date": "11/21"
 },
 {
         "id":4,
         "track":"Track 4",
         "location":"Orlando, FL",
-        "date": "5/21/2019"
+        "date": "5/21"
 },
 {
         "id":5,
         "track":"Track 5",
         "location":"New York, NY",
-        "date": "5/29/2019"
+        "date": "5/29"
 }
 ]
 }
