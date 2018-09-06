@@ -2,33 +2,21 @@
 "tracks":[
     {
         "id": 1,
-        "track":"Track 1",
-        "location": "Charlotte, NC",
-        "date": "11/23"
+        "track":"311 Speedway",
+        "location": "Pine Hall, NC",
+        "date": "9/28"
 },
 {
         "id":2,
-        "track":"Track 2",
-        "location": "Concord, NC",
-        "date": "11/22"
+        "track":"311 Speeday",
+        "location": "Pine Hall, NC",
+        "date": "9/29"
 },
 {
         "id":3,
-        "track":"Track 3",
-        "location":"Kannapolis, NC",
-        "date": "11/21"
-},
-{
-        "id":4,
-        "track":"Track 4",
-        "location":"Orlando, FL",
-        "date": "5/21"
-},
-{
-        "id":5,
-        "track":"Track 5",
-        "location":"New York, NY",
-        "date": "5/29"
+        "track":"Friendship Motor Speedway",
+        "location":"Elkin, NC",
+        "date": "10/13"
 }
 ]
 }
