@@ -2,21 +2,27 @@
 "tracks":[
     {
         "id": 1,
-        "track":"311 Speedway",
-        "location": "Pine Hall, NC",
-        "date": "9/28"
+        "track":"Sumpter Speedway",
+        "location": "Sumpter, SC",
+        "date": "4/27"
 },
 {
         "id":2,
-        "track":"311 Speeday",
-        "location": "Pine Hall, NC",
-        "date": "9/29"
+        "track":"Travelers Rest Speedway",
+        "location": "Travelers Rest, SC",
+        "date": "5/11"
 },
 {
         "id":3,
-        "track":"Friendship Motor Speedway",
+        "track":"Harris Speedway",
+        "location":"Harris, NC",
+        "date": "5/18"
+},
+    {
+        "id":4,
+        "track":"311 Speedway",
         "location":"Elkin, NC",
-        "date": "10/13"
+        "date": "6/08"
 }
 ]
 }
