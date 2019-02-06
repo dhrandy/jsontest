@@ -23,6 +23,24 @@
         "track":"311 Speedway",
         "location":"Pine Hall, NC",
         "date": "6/08"
+},
+    {
+        "id":5,
+        "track":"Carolina Speedway",
+        "location":"Gastonia, NC",
+        "date": "6/21"
+},
+    {
+        "id":6,
+        "track":"Cherokee Speedway",
+        "location":"Gaffney, SC",
+        "date": "6/22"
+},
+    {
+        "id":7,
+        "track":"Lake View Motor Speedway",
+        "location":"Nichols, SC",
+        "date": "7/06"
 }
 ]
 }
