@@ -2,7 +2,7 @@
 "tracks":[
     {
         "id": 1,
-        "track":"Sumpter Speedway",
+        "track":"Sumter Speedway",
         "location": "Sumter, SC",
         "date": "4/27"
 },
@@ -68,7 +68,7 @@
 },
     {
         "id":12,
-        "track":"Sumpter Speedway",
+        "track":"Sumter Speedway",
         "location": "Sumter, SC",
         "date": "8/24"
 },
